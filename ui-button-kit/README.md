@@ -6,6 +6,6 @@ A Roblox UI kit using modular components along with lifecycle-based windows and 
 - Entered: UI activation
 - Exited: UI deactivation 
 
-This guarantees proper isolation and consistent transitions between UI states. Animations are performed using a physics model using springs rather than tweens.
+This guarantees proper isolation and consistent transitions between UI states. Animations are performed using a physics model using springs rather than tweens. Includes built-in support for handling MarketplaceService prompts (gamepasses, developer products).
 
 https://github.com/user-attachments/assets/7c15db8f-09e5-490b-934a-e6a728f57b6b
